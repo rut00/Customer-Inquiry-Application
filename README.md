@@ -2,6 +2,8 @@
 
 <h3> This application stores the customer data entered by user and stores in the google sheet. It is developed using Flutter and uses Google API. The application is written in Dart language.</h3>
 
+<h4> The application was developed in internship tenure under Greenman Panels LLP. </h4>
+
 The screenshots of the application are attached in this folder.
 
 <p>Form UI: </p>
