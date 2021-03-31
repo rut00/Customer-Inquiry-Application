@@ -15,3 +15,5 @@ The screenshots of the application are attached in this folder.
 <p>On submitting the form: </p>
 <br>
 <img src="https://github.com/rut00/customer_inquiry/blob/main/Screenshots/submission_page.png" width=200>
+
+<h4> Note: The source code files are in the master branch of repository. </h4>
